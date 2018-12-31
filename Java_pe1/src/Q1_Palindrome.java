@@ -1,8 +1,7 @@
+//Palindrom of  a number
 import java.util.*;
-
-
 public class Q1_Palindrome {
-
+//main program begins here
     public static void main(String[] args)
 
     {
@@ -13,7 +12,7 @@ public class Q1_Palindrome {
         originalNumber=scan.nextInt();
         number=originalNumber;
 
-        while(number!=0)
+        while(number!=0)   //Loop to reverse a number
         {
             remainder=number%10;
             if(remainder%2==0)
@@ -25,8 +24,7 @@ public class Q1_Palindrome {
 
         }
 
-
-
+//Checking if the original number and reverse number is same or not
         if(originalNumber==reverseNumber)
         {
             System.out.print("The given Number"+originalNumber+" is a palindrome ");

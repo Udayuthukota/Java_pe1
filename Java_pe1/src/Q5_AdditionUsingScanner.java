@@ -1,5 +1,5 @@
+//Adding all input number untill you enter 0
 import java.util.*;
-
 public class Q5_AdditionUsingScanner {
 
     public static void main(String[] args)

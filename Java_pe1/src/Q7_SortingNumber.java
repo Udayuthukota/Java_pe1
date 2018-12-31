@@ -1,3 +1,4 @@
+//Sorting a number and adding even numbers
 import java.util.Scanner;
 public class Q7_SortingNumber {
 

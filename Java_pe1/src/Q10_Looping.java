@@ -1,3 +1,4 @@
+//Looping a string at the end for n number of times
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,7 +17,7 @@ public class Q10_Looping {
         i= scan.nextInt();
         int j=name.length()-i;
         System.out.print(name);
-        for(int k=0;k<i;k++)
+        for(int k=0;k<i;k++) //loop to print end string for n number of times
         {
             for(int l=j;l<name.length();l++)
             {

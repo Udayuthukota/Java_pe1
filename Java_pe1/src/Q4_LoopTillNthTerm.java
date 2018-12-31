@@ -1,4 +1,4 @@
-import java.io.IOException;
+//Looping and printing  a number n number of times
 import java.util.Scanner;
 
 public class Q4_LoopTillNthTerm {

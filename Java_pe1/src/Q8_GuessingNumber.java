@@ -1,5 +1,5 @@
+//Guessing a number which is more or less than the number you defined
 import java.util.*;
-
 public class Q8_GuessingNumber {
     public static  void  main(String arg[]){
         Scanner scanner = new Scanner(System.in);

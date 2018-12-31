@@ -1,3 +1,4 @@
+//To check whether the input number is lower case or upper case
 import java.util.*;
 import java.io.BufferedReader;
 import java.io.IOException;
