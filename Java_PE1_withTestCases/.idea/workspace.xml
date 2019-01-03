@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92c614d-24d4-4668-a5bc-6dddb48a8426" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q5_SumOfEnteredInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q5_AdditionUsingScanner.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/Java_pe1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/Java_pe1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q10_Looping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q10_Looping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q1_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q1_Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q6_UpperOrLowerCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q6_UpperOrLowerCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q7_SortingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/out/production/Java_pe1/Q7_SortingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/src/Q1_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/src/Q1_Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_pe1/src/Q3_VowelOrConsonent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/src/Q3_VowelOrConsonent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/Q2_PowerOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/Q4_ConvertToUpperCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/com/company/Q1_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/com/company/Q1_Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/Q2_PowerOfFourTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/Q4_ConvertToUpperCaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/com/company/Q1_PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/com/company/Q1_PalindromeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q2_PowerOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q2_PowerOfFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q4_ConvertToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q4_ConvertToUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q5_EvenNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q5_EvenNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q6_StudentsAndGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q6_StudentsAndGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/com/company/Q1_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/com/company/Q1_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q2_PowerOfFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q2_PowerOfFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q4_ConvertToUpperCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q4_ConvertToUpperCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q5_EvenNumTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q5_EvenNumTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/com/company/Q1_PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/com/company/Q1_PalindromeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,31 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Q4_LoopTillNthTerm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Q3_VowelOrConsonent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/Q3_VowelOrConsonentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state relative-caret-position="90">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
@@ -59,10 +51,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Q7_SortingNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Q1_Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/Q1_PalindromeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,26 +74,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/Q7_SortingNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Q8_GuessingNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Q7_SortingNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="135">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/Q9_ReverseStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <element signature="e#0#772#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,24 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Q9_ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/Q9_ReverseStringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -123,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Q10_Looping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="300">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,17 +125,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/Q10_LoopingTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Q5_SumOfEnteredInputs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="222">
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/Q5_SumOfEnteredInputsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/main/test/Q6_UpperOrLowerCaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Q4_LoopTillNthTerm.java" />
         <option value="$PROJECT_DIR$/src/main/test/Q4_LoopTillNthTermTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Q5_AdditionUsingScanner.java" />
         <option value="$PROJECT_DIR$/src/main/java/Q7_SortingNumber.java" />
         <option value="$PROJECT_DIR$/src/main/test/Q7_SortingNumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Q8_GuessingNumber.java" />
@@ -182,6 +182,9 @@
         <option value="$PROJECT_DIR$/src/main/test/Q10_LoopingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Q3_VowelOrConsonent.java" />
         <option value="$PROJECT_DIR$/src/main/test/Q3_VowelOrConsonentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q5_AdditionUsingScanner.java" />
+        <option value="$PROJECT_DIR$/src/main/test/Q5_SumOfEnteredInputsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q5_SumOfEnteredInputs.java" />
       </list>
     </option>
   </component>
@@ -197,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +244,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,9 +253,10 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546456308438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546499236629" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -280,18 +284,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Q3_VowelOrConsonentTest">
-    <configuration name="Q3_VowelOrConsonent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_VowelOrConsonent" />
+  <component name="RunManager" selected="JUnit.Q5_SumOfEnteredInputsTest">
+    <configuration name="Q5_SumOfEnteredInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q5_SumOfEnteredInputs" />
       <module name="Java_PE1_withTestCases" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q10_LoopingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_PE1_withTestCases" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Q10_LoopingTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -324,20 +320,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q5_SumOfEnteredInputsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_PE1_withTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Q5_SumOfEnteredInputsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.Q10_LoopingTest" />
-      <item itemvalue="JUnit.Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" />
-      <item itemvalue="JUnit.Q3_VowelOrConsonentTest.CheckingVowelOrConsonent1" />
-      <item itemvalue="Application.Q3_VowelOrConsonent" />
       <item itemvalue="JUnit.Q3_VowelOrConsonentTest" />
+      <item itemvalue="JUnit.Q3_VowelOrConsonentTest.CheckingVowelOrConsonent1" />
+      <item itemvalue="JUnit.Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" />
+      <item itemvalue="JUnit.Q5_SumOfEnteredInputsTest" />
+      <item itemvalue="Application.Q5_SumOfEnteredInputs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q5_SumOfEnteredInputsTest" />
+        <item itemvalue="Application.Q5_SumOfEnteredInputs" />
         <item itemvalue="JUnit.Q3_VowelOrConsonentTest" />
         <item itemvalue="JUnit.Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" />
         <item itemvalue="JUnit.Q3_VowelOrConsonentTest.CheckingVowelOrConsonent1" />
-        <item itemvalue="Application.Q3_VowelOrConsonent" />
-        <item itemvalue="JUnit.Q10_LoopingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -355,18 +359,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Q10_LoopingTest_testRepeatLastNLetters - 2019.01.03 at 00h 26m 29s.xml">
-      <configuration name="Q10_LoopingTest.testRepeatLastNLetters" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Q10_LoopingTest - 2019.01.03 at 00h 26m 35s.xml">
-      <configuration name="Q10_LoopingTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Q3_VowelOrConsonentTest_CheckingVowelOrConsonent - 2019.01.03 at 00h 30m 41s.xml">
-      <configuration name="Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Q3_VowelOrConsonentTest_CheckingVowelOrConsonent - 2019.01.03 at 00h 31m 08s.xml">
-      <configuration name="Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Q3_VowelOrConsonentTest_CheckingVowelOrConsonent - 2019.01.03 at 00h 32m 00s.xml">
       <configuration name="Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" configurationId="JUnit" />
     </history-entry>
@@ -385,22 +377,30 @@
     <history-entry file="Q3_VowelOrConsonentTest_CheckingVowelOrConsonent - 2019.01.03 at 00h 40m 56s.xml">
       <configuration name="Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Q3_VowelOrConsonentTest_CheckingVowelOrConsonent - 2019.01.03 at 00h 41m 44s.xml">
+      <configuration name="Q3_VowelOrConsonentTest.CheckingVowelOrConsonent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q3_VowelOrConsonentTest - 2019.01.03 at 00h 41m 49s.xml">
+      <configuration name="Q3_VowelOrConsonentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_SumOfEnteredInputsTest - 2019.01.03 at 12h 28m 49s.xml">
+      <configuration name="Q5_SumOfEnteredInputsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_SumOfEnteredInputsTest - 2019.01.03 at 12h 36m 32s.xml">
+      <configuration name="Q5_SumOfEnteredInputsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.50242716" side_tool="true" weight="0.24980047" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975728" visible="true" weight="0.24980047" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975728" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32899022" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50242716" side_tool="true" weight="0.24980047" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
@@ -408,14 +408,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -454,31 +458,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Q1_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Q2_NumberCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/Q1_PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Q5_AdditionUsingScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/Q6_UpperOrLowerCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -541,57 +517,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/Q7_SortingNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Q8_GuessingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#772#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Q9_ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/Q9_ReverseStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Q10_Looping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -612,21 +543,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Q4_LoopTillNthTerm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
+        <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Q7_SortingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Q3_VowelOrConsonent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="360">
           <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -636,12 +560,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/Q3_VowelOrConsonentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q1_Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/Q1_PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/Q7_SortingNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q7_SortingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/Q9_ReverseStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q9_ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q10_Looping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/Q5_SumOfEnteredInputsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q5_SumOfEnteredInputs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#484#0" expanded="true" />
           </folding>
         </state>
       </provider>
