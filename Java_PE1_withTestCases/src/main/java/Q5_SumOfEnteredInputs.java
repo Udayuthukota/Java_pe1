@@ -22,6 +22,8 @@
 //
 
 import java.util.Scanner;public class Q5_SumOfEnteredInputs{
+
+
     public static void main(String args[]) {
         System.out.println("Enter the elements:");
         Scanner num = new Scanner(System.in);
@@ -32,9 +34,9 @@ import java.util.Scanner;public class Q5_SumOfEnteredInputs{
         {
             array[i] = scanner.nextInt();
         }
-        System.out.println(input_sum(array));
+        System.out.println(inputSum(array));
     }
-    public static String input_sum(int[] array){
+    public static String inputSum(int[] array){
         int sum = 0;        for( int num : array) {
             sum = sum + num;
         }

@@ -2,12 +2,12 @@
 import java.util.*;
 public class Q1_Palindrome {
 
-//Checking for a palindrome
-    public  int Palindrome(int number)
+                                                    //Checking for a palindrome
+    public  int palindrome(int number)
     {
         int reverseNumber=0;
         int remainder=0;
-        while(number!=0)   //Loop to reverse a number
+        while(number!=0)                          //Loop to reverse a number
         {
 
             remainder=number%10;
@@ -18,7 +18,7 @@ public class Q1_Palindrome {
         return reverseNumber;
     }
 
-    //calculating the sum is greater than 25 or not
+                                              //calculating the sum is greater than 25 or not
     public int  calulatingTheSum(int number)
     {
 
@@ -52,7 +52,7 @@ public class Q1_Palindrome {
 
         Q1_Palindrome myobj= new Q1_Palindrome();
 
-        reverseNumber=myobj.Palindrome(number);
+        reverseNumber=myobj.palindrome(number);
         sum=myobj.calulatingTheSum(number);
 
 //Checking if the original number and reverse number is same or not

@@ -20,7 +20,7 @@ import org.junit.After;
            public void input_sums(){
              int[] myIntArray = {4,4,4,4,4};
          String expectedValue = "Sum of Entered Inputs:20";
-          String actualValue = input.input_sum(myIntArray);
+          String actualValue = input.inputSum(myIntArray);
          assertEquals(expectedValue,actualValue);
             }
 }

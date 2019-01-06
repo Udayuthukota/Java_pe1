@@ -16,7 +16,7 @@ public class Q2_NumberCheckTest{
 Q2_NumberCheck obj;
 
     @Test
-      public void checkEvenOrOddInRange()
+      public void testCheckEvenOrOddInRange()
     {
         String expectedValue="Tom",actualValue;
         actualValue=obj.conditionalChecks(25);

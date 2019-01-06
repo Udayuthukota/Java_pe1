@@ -62,7 +62,7 @@ public class Q7_SortingNumber {
 
 
 
-    public static void main(String arg[]){
+    public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number to sort");
         int     inputInt = 0,sum=0;

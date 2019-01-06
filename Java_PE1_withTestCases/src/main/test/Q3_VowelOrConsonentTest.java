@@ -16,7 +16,7 @@ public class Q3_VowelOrConsonentTest {
 
     @Test
 
-    public void CheckingVowelOrConsonent()
+    public void testCheckingVowelOrConsonent()
     {
         String expectedValue="Consonent ",actualValue;
 
@@ -29,7 +29,7 @@ public class Q3_VowelOrConsonentTest {
 
     @Test
 
-    public void CheckingVowelOrConsonent1()
+    public void testCheckingVowelOrConsonent1()
     {
         String expectedValue="Vowel Consonent ",actualValue;
 
